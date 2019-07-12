@@ -6,7 +6,7 @@
 
 	<groupId>com.mohan.project</groupId>
 	<artifactId>easy-orm</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>EasyORM</name>
 	<description>简单高效orm框架</description>
 
